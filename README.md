@@ -35,4 +35,8 @@ L'intérêt d'avoir plusieurs environnement, c'est de pouvoir faire des tests sa
 
 1.19 Un pull-request est une proposition de modification du projet. Un contributeur va récupérer le projet, créer des améliorations sur une nouvelle branche, et va envoyer un pull-request pour faire passer ses modifications sur le master du projet.
 
-1.19 
+1.19 Vercel vérifie la compatibilité de ce qu'il y a dans le pull-request avec ce qu'il y a dans la branche master. Il donne le top départ pour faire un merge-request.
+
+1.20 Vercel réalise la fusion entre la branche dev et la branche master.
+
+1.21 
