@@ -30,3 +30,13 @@ Cette commande permet de voir les informations sur le déploiement du projet com
 L'intérêt d'avoir plusieurs environnement, c'est de pouvoir faire des tests sans casser l'application. On développe sur l'environnement de développement, puis après on fait les tests sur preview pour ainsi "pousser" les modifications finales sur l'environnement de production disponible au clients.
 
 1.17 
+
+1.18 'https://vercel-project-e9d4kycmd.vercel.app'
+
+1.19 Un pull-request est une proposition de modification du projet. Un contributeur va récupérer le projet, créer des améliorations sur une nouvelle branche, et va envoyer un pull-request pour faire passer ses modifications sur le master du projet.
+
+1.19 Vercel vérifie la compatibilité de ce qu'il y a dans le pull-request avec ce qu'il y a dans la branche master. Il donne le top départ pour faire un merge-request.
+
+1.20 Vercel réalise la fusion entre la branche dev et la branche master.
+
+1.21 
